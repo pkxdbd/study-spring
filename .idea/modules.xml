@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring-aop/spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aware/spring-aware.iml" filepath="$PROJECT_DIR$/spring-aware/spring-aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-circular-references/spring-circular-references.iml" filepath="$PROJECT_DIR$/spring-circular-references/spring-circular-references.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-environment/spring-environment.iml" filepath="$PROJECT_DIR$/spring-environment/spring-environment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-event/spring-event.iml" filepath="$PROJECT_DIR$/spring-event/spring-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ioc-container/spring-ioc-container.iml" filepath="$PROJECT_DIR$/spring-ioc-container/spring-ioc-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-resources/spring-resources.iml" filepath="$PROJECT_DIR$/spring-resources/spring-resources.iml" />
+    </modules>
+  </component>
+</project>
